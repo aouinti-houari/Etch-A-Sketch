@@ -1,0 +1,11 @@
+.container {
+  width: 500px;
+  height: 500px;
+  display: grid;
+  border: 1px solid black;
+}
+
+.grids-count {
+  font-size: 36px;
+  font-weight: 700;
+}
